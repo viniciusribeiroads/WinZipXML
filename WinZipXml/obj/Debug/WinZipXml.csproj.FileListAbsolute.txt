@@ -1,0 +1,10 @@
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\bin\Debug\WinZipXml.exe.config
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\bin\Debug\WinZipXml.exe
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\bin\Debug\WinZipXml.pdb
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\obj\Debug\WinZipXml.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\obj\Debug\WinZipXml.FrmCompress.resources
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\obj\Debug\WinZipXml.Properties.Resources.resources
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\obj\Debug\WinZipXml.csproj.GenerateResource.cache
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\obj\Debug\WinZipXml.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\obj\Debug\WinZipXml.exe
+C:\Users\Vinicius\Documents\GitHub\WinZipXml\WinZipXml\obj\Debug\WinZipXml.pdb
